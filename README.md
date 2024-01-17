@@ -14,6 +14,10 @@ Criteria 1 and Criteria 2 are the criteria associated with the columns you selec
 
 You can select which columns you want to output for the results window, and only that information will show for columns that are matching.
 
+**Data Types**:
+
+You can search for boolean, interger, and strings. Additionally you can use * as a wildcard to search for any data in a column, or leave a criteria blank to search for blank cells in a column.
+
 # Requirements
 
 Requires pandas 
@@ -21,10 +25,6 @@ Requires pandas
 To install:
 
 pip install pandas
-
-**Data Types**:
-
-You can search for boolean, interger, and strings. Additionally you can use * as a wildcard to search for any data in a column, or leave a criteria blank to search for blank cells in a column.
 
 ## Example
 
