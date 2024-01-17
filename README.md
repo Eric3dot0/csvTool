@@ -16,7 +16,7 @@ You can select which columns you want to output for the results window, and only
 
 # Requirements
 
-requires pandas 
+Requires pandas 
 
 To install:
 
